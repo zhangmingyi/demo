@@ -1,2 +1,2 @@
 # demo
-Demo for cloud solution
+Demo for cloud solution.
